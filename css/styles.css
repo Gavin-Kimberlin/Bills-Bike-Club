@@ -1,19 +1,18 @@
-h1 {
-  color: #00f;
-  text-align: center;
+img {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 20%;
+
 
 }
-
-h2 {
+h1{
+  font-size: 200;
+  font-family: monospace;
   font-style: italic;
-  text-align: center;
 }
+h2{
+  font-variant: inherit;
+  font-size: 100
 
-p {
-  font-family: sans-serif;
-}
-
-ul {
-  font-size: 20px;
-  line-height: 30px;
 }
