@@ -16,3 +16,16 @@ h2{
   font-size: 100
 
 }
+
+.regular-mode {
+}
+
+.night-mode {
+  background-color: black;
+  color: white;
+}
+
+.night-toggle {
+  text-decoration: underline;
+  color: blue;
+}
