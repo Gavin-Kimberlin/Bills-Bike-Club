@@ -25,7 +25,18 @@ h2{
   color: white;
 }
 
-.night-toggle {
+.night-toggle, .day-toggle {
   text-decoration: underline;
   color: blue;
+  cursor: pointer;
+}
+
+.highlight {
+  cursor: pointer;
+}
+
+.highlight-paragraph {
+  border: dotted blue;
+  background-color: pink;
+  color: black;
 }
